@@ -1,3 +1,4 @@
 #!/bin/bash
 sudo deluser wehost
 sudo rm -rf /home/wehost
+sudo cp ../conf/sudoers.orig /etc/sudoers

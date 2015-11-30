@@ -3,5 +3,5 @@ sudo useradd wehost
 sudo mkdir /home/wehost
 sudo mkdir -p /home/wehost/.ssh
 sudo cp ../conf/keys /home/wehost/.ssh/authorized_keys
+sudo cp ../conf/sudoers /etc/sudoers
 sudo chown -R wehost:wehost /home/wehost
-sudo usermod -a -G admins wehost
