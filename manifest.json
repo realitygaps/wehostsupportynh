@@ -1,0 +1,14 @@
+{
+    "name": "YunoHost Wehost Support",
+    "id": "wehostsupportynh",
+    "description": {
+        "en": "Wehost support application."
+    },
+    "licence": "gpl",
+    "maintainer": {
+        "name": "realitygaps",
+        "email": "realitygaps AT yahoo DOT com",
+        "url": "http://gapsinreality.com"
+    },
+    "multi_instance": "false"
+}
